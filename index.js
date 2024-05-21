@@ -6,3 +6,13 @@ let attackTypes = [
     "Template"
 ]
 
+function assignWeakness(attackType){
+    
+}
+attackPoints.forEach(point => {
+    
+})
+
+function triggerAttack(type) {
+    
+}
