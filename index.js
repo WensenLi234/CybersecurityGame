@@ -6,4 +6,3 @@ let attackTypes = [
     "Template"
 ]
 
-
