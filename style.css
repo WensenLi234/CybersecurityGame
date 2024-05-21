@@ -1,0 +1,33 @@
+.point_container{
+    width:fit-content;
+    height:fit-content;
+    display:grid;
+    grid-template-rows: 250px;
+    row-gap:50px;
+    margin:auto;
+}
+
+.point_name{
+    font-size: 32px;
+}
+.attack_point{
+    background-color:teal;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    height: 250px;
+    width: 250px;
+}
+
+#attack_grid{
+    display:grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    grid-template-rows: 250px;
+    width:fit-content;
+    column-gap: 50px;
+    margin:auto;
+}
+
+#datacenter{
+    margin:auto;
+}
